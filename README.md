@@ -1,1 +1,1 @@
-# DB1
+alter column => to change datatype or this column accept null or not but we cant add constraint but if we want to add constraint we use the keyword add after alter table tablename then write the contraint you want and select the column to apply this on it 
